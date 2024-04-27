@@ -1,2 +1,2 @@
 # Unutma Dostu
-alzheimer hastalarının hayatlarını kolaylaştıracak çözümler sonar
+Alzheimer hastalarının hayatlarını kolaylaştıracak çözümler sonar
